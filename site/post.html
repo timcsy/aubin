@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>文章內容</title>
+  <!-- 載入 GitHub Markdown CSS 讓 Markdown 內容美觀 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    /* 限制文章內容最大寬度，並使其居中 */
+    .content {
+      max-width: 800px;
+      margin: 20px auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 20px;
+    }
+    .original-link {
+      margin-top: 20px;
+    }
+    .post-header {
+      max-width: 800px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="post-header">
+    <h1 id="post-title">載入中…</h1>
+    <p id="post-date"></p>
+    <p class="original-link" id="post-link"></p>
+  </div>
+  <div class="content markdown-body" id="post-content">
+    載入中…
+  </div>
+  <p style="text-align: center;"><a href="index.html">返回文章列表</a></p>
+
+  <!-- 載入 marked.js (使用 CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    // 取得 URL 參數 ?post=0
+    function getParameterByName(name) {
+      const url = window.location.href;
+      name = name.replace(/[\[\]]/g, '\\$&');
+      const regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+      return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+    const postIndex = getParameterByName('post');
+    if (postIndex === null) {
+      document.getElementById('post-content').innerHTML = '<p>未提供文章編號。</p>';
+    } else {
+      // 載入 summary.json 並取得指定文章資訊
+      fetch('summary.json')
+        .then(response => response.json())
+        .then(data => {
+          const post = data[postIndex];
+          if (!post) {
+            document.getElementById('post-content').innerHTML = '<p>找不到文章資料。</p>';
+            return;
+          }
+          document.getElementById('post-title').innerText = post.標題;
+          document.getElementById('post-date').innerText = '日期：' + (post.date || '未知日期');
+          // 將原文連結解碼後顯示
+          const decodedLink = decodeURIComponent(post.連結);
+          document.getElementById('post-link').innerHTML = '原文網址：<a href="' + post.連結 + '" target="_blank">' + decodedLink + '</a>';
+          
+          // 根據 summary.json 中的 markdown_file 屬性，載入 Markdown 檔案
+          const mdPath = post.markdown_file;
+          if (!mdPath) {
+            document.getElementById('post-content').innerHTML = '<p>無 Markdown 檔案資訊。</p>';
+            return;
+          }
+          fetch(mdPath)
+            .then(response => response.text())
+            .then(mdText => {
+              // 使用 marked.js 轉換 Markdown 為 HTML
+              const html = marked.parse(mdText);
+              document.getElementById('post-content').innerHTML = html;
+            })
+            .catch(err => {
+              console.error('載入 Markdown 檔案時出錯:', err);
+              document.getElementById('post-content').innerHTML = '<p>無法載入文章內容。</p>';
+            });
+        })
+        .catch(error => {
+          console.error('載入 summary.json 時出錯:', error);
+          document.getElementById('post-content').innerHTML = '<p>無法載入文章資料。</p>';
+        });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ post.標題 }}</title>
+  <!-- 載入 GitHub Markdown CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    /* 限制文章內容最大寬度，並使其居中 */
+    .content { 
+      max-width: 800px; 
+      margin: 20px auto; 
+      box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+      padding: 20px; 
+    }
+    .original-link { margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>{{ post.標題 }}</h1>
+  <p>日期：{{ post.date }}</p>
+  <!-- 顯示原文連結 -->
+  <p class="original-link">原文網址：<a href="{{ post.連結 }}" target="_blank">{{ post.連結 }}</a></p>
+  <div class="content markdown-body">
+    {{ content|safe }}
+  </div>
+  <p><a href="index.html">返回文章列表</a></p>
+</body>
+</html>
