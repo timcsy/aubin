@@ -1,8 +1,6 @@
-### 後現代系列之一：德希達Derrida
+**後現代系列之一：德希達Derrida**
 
-  1. **1.****詮釋學回顧：**
-
-
+**1. 詮釋學回顧：**
 
 可以作者中心、文本中心、讀者中心時期來看近代詮釋學發展。
 
@@ -12,51 +10,34 @@
 
 讀者中心論：1970年代之後，開始質疑文本實證主義，即否定文本的科學。 德希達認為並沒有客觀的、事不關己的(disinterested)讀者。發展成讀者解放運動、讀者革命、或讀者之反叛。此為Fish的 實用論(pragmatism),與德希達的解構。
 
-  1. **2.****德希達與後現代詮釋學：**
 
-
+**2. 德希達與後現代詮釋學：**
 
 (a) 德希達是解構主義之父，他反對先前二十世紀上半、中葉發展的結構主義和新批判論，因為他們樂觀相信語言反映實在。他的幾個主要觀念為：解構、延異、暴力
 
-(b) **德希達與胡賽爾** ：解構(Deconstruction):可從幾方面談，他首先批判胡賽爾現象學，在處理意識（consciousness）時所提出的意向性(intentionality)，胡賽爾認為這才是真正的實證論，因為意向性就是歸回事物本身，即所謂的現象學還原(phenomenological reduction, epoche)，而其他科學（心理學、科學、歷史）僅僅處理表象(phenomena)；換言之所以為的意識，是已經剝除了個人的經驗，而達到完全純粹超驗(transcendental)。德希達的第一本書是翻譯與介紹胡賽爾的”The Origin of Geometry”、第二本書是”La Voix et le phenomena”， 1954年他自己也出版：”Genese et structure et la phenomenology”：德希達以為**現象學還原是無止境的** 。他認為胡賽爾無法解決語言所帶來的張力：語言對於科學和真理陳述是必須的，但又帶來疏離與變調。
+(b) **德希達與胡賽爾**：解構(Deconstruction):可從幾方面談，他首先批判胡賽爾現象學，在處理意識（consciousness）時所提出的意向性(intentionality)，胡賽爾認為這才是真正的實證論，因為意向性就是歸回事物本身，即所謂的現象學還原(phenomenological reduction, epoche)，而其他科學（心理學、科學、歷史）僅僅處理表象(phenomena)；換言之所以為的意識，是已經剝除了個人的經驗，而達到完全純粹超驗(transcendental)。德希達的第一本書是翻譯與介紹胡賽爾的”The Origin of Geometry”、第二本書是”La Voix et le phenomena”， 1954年他自己也出版：”Genese et structure et la phenomenology”：德希達以為**現象學還原是無止境的**。他認為胡賽爾無法解決語言所帶來的張力：語言對於科學和真理陳述是必須的，但又帶來疏離與變調。
 
-(c) **德希達與海德格：** 海德格認為西方哲學是存有的遺忘，他的目的是苦心拆解形上學：即現象學友三種基本要素：還原、建構、拆解。就是要拆解傳統形上學僵化的語詞，代之以一種生機勃勃的語言（如詩）根植於原初經驗，經由存有的召喚來形成本原性的歸回，但德希達以為海德格仍然確立邏格斯中心（logoscentric）的聲音，渴望存有即是某種現存(presence)，德希達清楚意識到解構形上學史時，想要摒棄語言是不可能的。因此，德希達以延異(differance)取代存有，以痕跡(trace)替代語言。
+(c) **德希達與海德格**：海德格認為西方哲學是存有的遺忘，他的目的是苦心拆解形上學：即現象學友三種基本要素：還原、建構、拆解。就是要拆解傳統形上學僵化的語詞，代之以一種生機勃勃的語言（如詩）根植於原初經驗，經由存有的召喚來形成本原性的歸回，但德希達以為海德格仍然確立邏格斯中心（logoscentric）的聲音，渴望存有即是某種現存(presence)，德希達清楚意識到解構形上學史時，想要摒棄語言是不可能的。因此，德希達以延異(differance)取代存有，以痕跡(trace)替代語言。
 
-(d) **延異（difference, difference****：）** 解構是一種無限的閱讀活動，就是一種延異的活動。延異不是一個詞，也不是一種概念。法文延異一詞中的字母a表明主動狀態與被動狀態的不確定性，而這種不確定性也不在受二元對立的控制和構築。動詞differer，既有difffer（差異、區分），又有deffer（遲延、耽擱）之意。延異記表明意義條件既定差別的狀況，也表示那種使意義產生差別的行為； 前者符號的空間關係（區分），後者是符號的時間關係（延遲），能指（signifier）符號的存在也就使所指(signified)的出場受到延緩、推遲、耽擱。因此，德希達斷言：延異比存有更古老。如果海德格拆解形上學的結果是保留語言即存有之家園的形上學殘骸，而墮回中心，哪麼延異旨在超越這種陷阱與困難。延異是差異的痕跡、是不能以二元對立（呈現與缺席）來理解的結構或運動、分隔(spacing)所進行的整體嬉戲，這種語言狀態，德希達稱為離中心的擴散(dissemination),也就是說，意義的豐富恰好表示一種無窮盡的流失、全部所指的闕如。
+(d) **延異（difference, difference）**：解構是一種無限的閱讀活動，就是一種延異的活動。延異不是一個詞，也不是一種概念。法文延異一詞中的字母a表明主動狀態與被動狀態的不確定性，而這種不確定性也不在受二元對立的控制和構築。動詞differer，既有difffer（差異、區分），又有deffer（遲延、耽擱）之意。延異記表明意義條件既定差別的狀況，也表示那種使意義產生差別的行為； 前者符號的空間關係（區分），後者是符號的時間關係（延遲），能指（signifier）符號的存在也就使所指(signified)的出場受到延緩、推遲、耽擱。因此，德希達斷言：延異比存有更古老。如果海德格拆解形上學的結果是保留語言即存有之家園的形上學殘骸，而墮回中心，哪麼延異旨在超越這種陷阱與困難。延異是差異的痕跡、是不能以二元對立（呈現與缺席）來理解的結構或運動、分隔(spacing)所進行的整體嬉戲，這種語言狀態，德希達稱為離中心的擴散(dissemination),也就是說，意義的豐富恰好表示一種無窮盡的流失、全部所指的闕如。
 
-由於能指與所指的不穩定，也就不存在中心、結構、意願；語詞僅僅是痕跡，而不是存有。因此解構是不再如海德格之轉向存有本源，而強調嬉戲；所謂嬉戲，就是延異的活動，是一種差異的遊戲，符號是非固定化的無限書寫(writing)，拒絕對任何事務設定中及或確定性意涵─ 只有文本的無限書寫。因此，在一切的不確定性中，任何的解讀都是合法的，既不存在關於上帝的真理，也不存在關於上帝文本的真理。詮釋是不確定的，詮釋不再是轉向本源，而是嬉戲，嬉戲是非整體的可能性、是無終結的差異運動，他攪亂了在場，又引入缺席，導向痕跡之痕跡之痕跡之痕跡，，，。否定並不等於簡單的不，也不等於簡單的是，解構即是用在刪除號下(sous rature) 的書寫方式
-
-，是一種痕跡，也是一種增補(supplement)
-
-  1. **3.****批判******
+由於能指與所指的不穩定，也就不存在中心、結構、意願；語詞僅僅是痕跡，而不是存有。因此解構是不再如海德格之轉向存有本源，而強調嬉戲；所謂嬉戲，就是延異的活動，是一種差異的遊戲，符號是非固定化的無限書寫(writing)，拒絕對任何事務設定中及或確定性意涵─ 只有文本的無限書寫。因此，在一切的不確定性中，任何的解讀都是合法的，既不存在關於上帝的真理，也不存在關於上帝文本的真理。詮釋是不確定的，詮釋不再是轉向本源，而是嬉戲，嬉戲是非整體的可能性、是無終結的差異運動，他攪亂了在場，又引入缺席，導向痕跡之痕跡之痕跡之痕跡，，，。否定並不等於簡單的不，也不等於簡單的是，解構即是用在刪除號下(sous rature) 的書寫方式，是一種痕跡，也是一種增補(supplement)
 
 
+**3. 批判**
 
-回歸奧古斯丁式的詮釋學：我信為的是要理解。也就是在本體論上，我信詮釋的實在論（realism）；在知識論上，我信詮釋的理性（rationality）； 在倫理學上，我信詮釋的責任(responsibility).在這基礎上**Vanhoozer****，發展了三一式的詮釋學 Vanhoozer’s Trinitarian hermeneutics (Is there a Meaning in This Textp456-467)**
+回歸奧古斯丁式的詮釋學：我信為的是要理解。也就是在本體論上，我信詮釋的實在論（realism）；在知識論上，我信詮釋的理性（rationality）； 在倫理學上，我信詮釋的責任(responsibility).在這基礎上**Vanhoozer**，發展了三一式的詮釋學 Vanhoozer’s Trinitarian hermeneutics (Is there a Meaning in This Textp456-467)**
 
-Literary triad | Author-text-reader  
----|---  
-Philosophy | Metaphysics-epistemology-ethics  
-| Hermeneutic realism,hermeneutic rationality, henrmeneutic responsibility  
-Speech Act | Locution,illocution, perlocution  
-doctrine | Creation,Incarnation/revelation,sanctification  
-Trinity | The Father,Son,and Spirit  
+| Literary triad | Author-text-reader |
+|---|---|
+| Philosophy | Metaphysics-epistemology-ethics  
+|  | Hermeneutic realism,hermeneutic rationality, henrmeneutic responsibility |
+| Speech Act | Locution,illocution, perlocution |
+| doctrine | Creation,Incarnation/revelation,sanctification |
+| Trinity | The Father,Son,and Spirit |
   
 這與Van Til的三一論護教學、神學互相呼應，也和Poythress的神本詮釋學，遙遙相映。因此本文立場相信可以發展一套歸正三一式的詮釋學，以作為在系統神學 、護教學和聖經神學間的橋樑。 就詮釋學而言，語言之本身是被造的，因此是經由上帝設計的一種盟約的式溝通，語言本身是可以被溝通的（英國牛津、劍橋發展出日常生活語言哲學，Ordinary language philosophy），而德希達質疑這一點。 Searle駁斥德希達將本體論與知識論混淆，因為德希達不認為語言可以溝通意義。即德希達質疑語言的規範性。
 
 里科爾Ricoeur認為語言之為一種結構，並不是為自己而存在，而是指向超越語言本身的範疇。反之，德希達以為語言是一種自我的指涉(self-reference)，沒有穩定的結構。
 
 Habermas 提出語言是一種 溝通的行動，具有主體際間的結構，而非如德希達不認為語言存在理性。
-
-## 
-
-### 分享到：
-
-  * [Twitter](https://aubinchang1.wordpress.com/2012/04/27/%e5%90%8e%e7%8f%be%e4%bb%a3%e7%a0%94%e7%a9%b6-derrida%e6%80%9d%e6%83%b3%e5%88%9d%e8%ab%96/?share=twitter "点击分享到Twitter")
-  * [Facebook](https://aubinchang1.wordpress.com/2012/04/27/%e5%90%8e%e7%8f%be%e4%bb%a3%e7%a0%94%e7%a9%b6-derrida%e6%80%9d%e6%83%b3%e5%88%9d%e8%ab%96/?share=facebook "点击分享到 Facebook ")
-  * 
-
-
-赞 正在加载……
-
-### _相关_
